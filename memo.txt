@@ -1,0 +1,3 @@
+total day : 70주
+day 는 70주 안에서 cf.MAX_ROUNDS : 7000 을 
+

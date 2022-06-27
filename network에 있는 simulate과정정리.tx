@@ -1,0 +1,5 @@
+simulate :
+    1. 0~69 까지 7000개 뽑음
+    2. sorting
+    3. 0~6999 for 문 round_nb
+    4. 
